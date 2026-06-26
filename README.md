@@ -45,24 +45,24 @@ Octane-Torque/
 │   │   ├── silkSerif.woff2
 │   │   └── silkSerifReg.woff2
 │   └── img
-│       ├── art.jpg
-│       ├── effect-image.jpg
-│       ├── Eminente_First.png
-│       ├── Eminente_Second.png
+│       ├── 1.jpg
+│       ├── 10.png
+│       ├── 11.png
+│       ├── 12.png
+│       ├── 13.png
+│       ├── 14.png
+│       ├── 15.png
+│       ├── 16.jpg
+│       ├── 2.jpg
+│       ├── 3.png
+│       ├── 4.png
+│       ├── 5.jpg
+│       ├── 6.jpg
+│       ├── 7.png
+│       ├── 8.png
+│       ├── 9.jpg
 │       ├── favico.ico
-│       ├── favicon.png
-│       ├── Flag.jpg
-│       ├── group.jpg
-│       ├── Laxer_1-2.png
-│       ├── Laxer_2.png
-│       ├── main-poster.jpg
-│       ├── Makhno_First.png
-│       ├── Makhno_Hover.png
-│       ├── OCHI-1.png
-│       ├── OCHI_2.png
-│       ├── Olga_Prudka_1.png
-│       ├── Olga_Prudka_2.png
-│       └── Porche-small.jpg
+│       └── favicon.png
 ├── favicon.png
 ├── index.html
 ├── main.js
